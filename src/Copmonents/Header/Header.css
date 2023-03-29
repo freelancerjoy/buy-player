@@ -1,0 +1,12 @@
+.header-container {
+	display: flex;
+	justify-content: space-between;
+	background-color: aquamarine;
+	align-items: center;
+	padding: 10px 100px;
+}
+.header-info a {
+	margin-left: 30px;
+	color: black;
+	text-decoration: none;
+}

@@ -1,0 +1,20 @@
+.player {
+	border-radius: 8px;
+	border: 1px solid tomato;
+	height: 400px;
+	position: relative;
+}
+.player img {
+	width: 100%;
+}
+.player-info {
+	text-align: center;
+}
+.player-btn button {
+	width: 100%;
+	background-color: antiquewhite;
+	padding: 10px;
+	color: red;
+	position: absolute;
+	bottom: 0;
+}
